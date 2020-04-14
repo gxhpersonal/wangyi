@@ -7,6 +7,7 @@ $imgpath:'../image/';
     background-image: url($imgpath +'pic_'+ $i + '.jpg' );
     background-position: top center;
     background-repeat: no-repeat;
+    background-size: 100%;
     position: relative;
     min-width: 1024px;
     margin: 0 auto;
